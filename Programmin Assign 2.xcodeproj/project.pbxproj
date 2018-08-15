@@ -50,7 +50,7 @@
 		550FEDDF203678B3008E3ED8 = {
 			isa = PBXGroup;
 			children = (
-				550FEDEA203678B3008E3ED8 /* Programmin Assign 2 */,
+				550FEDEA203678B3008E3ED8 /* Document Classifier Code */,
 				550FEDE9203678B3008E3ED8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,7 +63,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		550FEDEA203678B3008E3ED8 /* Programmin Assign 2 */ = {
+		550FEDEA203678B3008E3ED8 /* Document Classifier Code */ = {
 			isa = PBXGroup;
 			children = (
 				550FEDEB203678B3008E3ED8 /* main.cpp */,
@@ -74,7 +74,7 @@
 				55BA7432205854710090C5B3 /* SeparateChainTable.hpp */,
 				55BA7431205854710090C5B3 /* SeparateChainTable.cpp */,
 			);
-			path = "Programmin Assign 2";
+			path = "Document Classifier Code";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
